@@ -17,6 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
